@@ -2,7 +2,7 @@ Selenium 4.35 Learning & Implementation 🚀
 
 This repository contains my hands-on learning journey with Selenium 4.x Web Automation.
 I’ll be implementing each concept from 
-📘 Topics Covered
+📘 Topics Coveredtype README.md
 
 Based on the notes, this repo will include implementations for:
 
