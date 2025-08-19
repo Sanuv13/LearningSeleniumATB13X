@@ -1,8 +1,7 @@
 Selenium 4.35 Learning & Implementation 🚀
 
 This repository contains my hands-on learning journey with Selenium 4.x Web Automation.
-I’ll be implementing each concept from [TheTestingAcademy - Selenium 4.x Notes by Pramod] and documenting my progress step by step.
-
+I’ll be implementing each concept from 
 📘 Topics Covered
 
 Based on the notes, this repo will include implementations for:
