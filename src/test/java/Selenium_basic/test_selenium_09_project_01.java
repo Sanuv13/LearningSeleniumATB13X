@@ -21,10 +21,12 @@ public class test_selenium_09_project_01 {
         System.out.println(driver.getPageSource());
         if(driver.getPageSource().contains("CURA Healthcare Service")){
             System.out.println("Test case passed");
+            Assert.assertTrue(true);
         }
         else
         {
             System.out.println("Test case failed");
+            Assert.fail();
         }
         driver.quit();
 
